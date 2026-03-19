@@ -21,4 +21,4 @@ Aspiring Data Analyst passionate about data, analytics, and problem-solving.
 - Real-world problem solving with data
 
 ## Connect With Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/dhir-patel14/)
+- LinkedIn: [Dhir Patel](https://www.linkedin.com/in/dhir-patel14/)
